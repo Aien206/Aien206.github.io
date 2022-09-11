@@ -1,0 +1,61 @@
+.topnav {
+  background-color: #2F2F2F;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+h1
+{
+color:white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+h2
+{
+	color:white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+h3
+{
+	color:white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p
+{
+	color:white;
+      font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.topnav a:hover {
+  color: black;
+}
+a
+{
+	color:white;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+li
+{
+	color:white;
+	font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #F2F2F2;
+  color: black;
+}
+
+
